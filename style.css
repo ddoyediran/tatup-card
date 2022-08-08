@@ -16,8 +16,8 @@ body {
   width: 471px;
   /* height: 258px; */
   height: auto;
-  margin-bottom: 35px;
-  margin-top: 70px;
+  /* margin-bottom: 35px; */
+  margin-top: 100px;
   margin-left: auto;
   margin-right: auto;
 }
@@ -93,4 +93,128 @@ body {
 .url-text {
   font-size: 14px;
   color: #ffffff;
+}
+
+.bottom-card {
+  background-color: white;
+  /* width: 35rem; */
+  width: 471px;
+  /* height: 258px; */
+  height: auto;
+  margin-bottom: 80px;
+  margin-top: 30px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.top-con-card-2 {
+  display: flex;
+  flex-direction: left;
+}
+
+.small-image {
+  width: 50px;
+  height: 50px;
+}
+
+.shape-con {
+  margin-top: 15px;
+  margin-left: 30px;
+}
+
+/* .shape-con {
+  position: relative;
+} */
+
+.shape-con {
+  background-image: url("./images/Rectangle\ 3.svg");
+  width: 382px;
+  height: 59px;
+  position: relative;
+}
+
+/* .blue-shape {
+  border: 2px solid red;
+  position: absolute;
+  top: 0;
+  width: 350px;
+  height: 59px;
+} */
+
+.h1-pin-text {
+  /* border: 2px solid yellow; */
+  color: #ffffff;
+  position: absolute;
+  top: 20px;
+  left: 25px;
+  font-size: 24px;
+  font-weight: 500;
+}
+
+.white-shape {
+  /* border: 2px solid green; */
+  position: absolute;
+  top: 13px;
+  left: 74px;
+}
+
+.small-image {
+  margin-top: 25px;
+}
+
+.middle-con-card-2 {
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 0px;
+}
+
+.instruction-text {
+  /* padding: 5px 0; */
+  padding-bottom: 6px;
+  text-decoration: underline;
+  font-size: 18px;
+  font-weight: 300;
+}
+
+.intruction-text-dial,
+.span-text {
+  font-size: 18px;
+  padding-bottom: 3px;
+}
+
+.span-text {
+  font-weight: 700;
+}
+
+.h1-1000-text {
+  font-size: 36px;
+  font-weight: 500;
+  /* border: 1px solid red; */
+  /* margin-bottom: 3px; */
+}
+
+.bottom-con-card-2 {
+  display: flex;
+  flex-direction: left;
+  border: none;
+  border-top: 1px solid #aaa6a6;
+  border-bottom: 1px solid #aaa6a6;
+}
+
+.bottom-con-card-2-text {
+  margin-left: 30px;
+  /* margin-bottom: 5px; */
+  font-size: 13px;
+  font-weight: 400;
+}
+
+.batch-text-p {
+  padding-top: 9px;
+  padding-bottom: 1px;
+}
+
+.barcode-con {
+  margin-top: 16px;
+  margin-left: 202px;
+  margin-bottom: 0px;
 }
