@@ -123,10 +123,6 @@ body {
   margin-left: 30px;
 }
 
-/* .shape-con {
-  position: relative;
-} */
-
 .shape-con {
   background-image: url("./images/Rectangle\ 3.svg");
   width: 382px;
@@ -135,7 +131,6 @@ body {
 }
 
 .h1-pin-text {
-  /* border: 2px solid yellow; */
   color: #ffffff;
   position: absolute;
   top: 20px;
@@ -145,7 +140,6 @@ body {
 }
 
 .white-shape {
-  /* border: 2px solid green; */
   position: absolute;
   top: 13px;
   left: 74px;
@@ -162,14 +156,13 @@ body {
 }
 
 .instruction-text {
-  /* padding: 5px 0; */
   padding-bottom: 6px;
   text-decoration: underline;
   font-size: 18px;
   font-weight: 300;
 }
 
-.intruction-text-dial,
+.instruction-text-dial,
 .span-text {
   font-size: 18px;
   padding-bottom: 3px;
