@@ -8,4 +8,89 @@
 
 body {
   font-family: "Roboto", sans-serif;
+  background-color: #e5e5e5;
+}
+
+.top-card {
+  /* width: 35rem; */
+  width: 471px;
+  /* height: 258px; */
+  height: auto;
+  margin-bottom: 35px;
+  margin-top: 70px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.top-con-card-1 {
+  background-color: #fcebeb;
+  display: flex;
+  flex-direction: row;
+}
+
+.company-name-con {
+  margin-left: 9px;
+  font-size: 14px;
+  font-weight: 500;
+  margin-top: 14px;
+  margin-bottom: 20px;
+}
+
+.logo-con {
+  width: 162.5px;
+  height: 142px;
+  margin-top: 31px;
+  margin-left: 43px;
+}
+
+.price-text-con {
+  text-align: center;
+  margin-left: 40px;
+}
+
+.h2-cash-deposit {
+  margin-top: 32px;
+  margin-bottom: 40px;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 21.09px;
+  color: #ff4848;
+}
+
+.h1-N100-con {
+  font-size: 48px;
+  font-weight: 500;
+  color: #ff4848;
+}
+
+.contact-details-con {
+  display: flex;
+  flex-direction: left;
+  margin-top: 62px;
+  margin-left: 93px;
+}
+
+.icon-con {
+  width: 13px;
+  height: 13px;
+  margin-top: 1px;
+}
+
+.phone-num-con {
+  padding-left: 12px;
+  font-size: 14px;
+}
+
+.bottom-con-card-1 {
+  background-color: #ff1515;
+}
+
+.bottom-con-card-1 {
+  text-align: center;
+  padding: 5px 0;
+}
+
+.url-text {
+  font-size: 14px;
+  color: #ffffff;
 }
